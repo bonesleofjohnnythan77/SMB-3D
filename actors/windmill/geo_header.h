@@ -1,0 +1,17 @@
+extern const GeoLayout windmill_geo[];
+extern Lights1 windmill_windmill2_lights;
+extern Lights1 windmill_windmill1_lights;
+extern u8 windmill__03011510_ci4[];
+extern u8 windmill__03011510_pal_rgba16[];
+extern u8 windmill__03010510_ci4[];
+extern u8 windmill__03010510_pal_rgba16[];
+extern Vtx windmill_000_offset_001_mesh_layer_1_vtx_0[16];
+extern Gfx windmill_000_offset_001_mesh_layer_1_tri_0[];
+extern Vtx windmill_000_offset_001_mesh_layer_1_vtx_1[8];
+extern Gfx windmill_000_offset_001_mesh_layer_1_tri_1[];
+extern Gfx mat_windmill_windmill2[];
+extern Gfx mat_revert_windmill_windmill2[];
+extern Gfx mat_windmill_windmill1[];
+extern Gfx mat_revert_windmill_windmill1[];
+extern Gfx windmill_000_offset_001_mesh_layer_1[];
+extern Gfx windmill_material_revert_render_settings[];

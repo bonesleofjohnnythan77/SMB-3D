@@ -1,0 +1,17 @@
+extern const GeoLayout carnival_platform_geo[];
+extern Lights1 carnival_platform_material2_lights;
+extern Lights1 carnival_platform_material1_lights;
+extern u8 carnival_platform__08000800_ci8[];
+extern u8 carnival_platform__08000800_pal_rgba16[];
+extern u8 carnival_platform__08000000_ci8[];
+extern u8 carnival_platform__08000000_pal_rgba16[];
+extern Vtx carnival_platform_000_displaylist_mesh_layer_1_vtx_0[16];
+extern Gfx carnival_platform_000_displaylist_mesh_layer_1_tri_0[];
+extern Vtx carnival_platform_000_displaylist_mesh_layer_1_vtx_1[8];
+extern Gfx carnival_platform_000_displaylist_mesh_layer_1_tri_1[];
+extern Gfx mat_carnival_platform_material2[];
+extern Gfx mat_revert_carnival_platform_material2[];
+extern Gfx mat_carnival_platform_material1[];
+extern Gfx mat_revert_carnival_platform_material1[];
+extern Gfx carnival_platform_000_displaylist_mesh_layer_1[];
+extern Gfx carnival_platform_material_revert_render_settings[];

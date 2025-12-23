@@ -1,0 +1,15 @@
+extern const GeoLayout shellcreature_geo[];
+extern Lights1 shellcreature_shellcreature_lights;
+extern Lights1 shellcreature_shellcreature1_lights;
+extern u8 shellcreature__06002800_ci8[];
+extern u8 shellcreature__06002800_pal_rgba16[];
+extern Vtx shellcreature_000_offset_mesh_layer_1_vtx_0[20];
+extern Gfx shellcreature_000_offset_mesh_layer_1_tri_0[];
+extern Vtx shellcreature_000_offset_mesh_layer_1_vtx_1[11];
+extern Gfx shellcreature_000_offset_mesh_layer_1_tri_1[];
+extern Gfx mat_shellcreature_shellcreature[];
+extern Gfx mat_revert_shellcreature_shellcreature[];
+extern Gfx mat_shellcreature_shellcreature1[];
+extern Gfx mat_revert_shellcreature_shellcreature1[];
+extern Gfx shellcreature_000_offset_mesh_layer_1[];
+extern Gfx shellcreature_material_revert_render_settings[];

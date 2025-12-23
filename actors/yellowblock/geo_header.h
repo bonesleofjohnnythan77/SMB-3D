@@ -1,0 +1,10 @@
+extern const GeoLayout yellowblock_geo[];
+extern Lights1 yellowblock_yellowblock_lights;
+extern u8 yellowblock__09002800_ci4[];
+extern u8 yellowblock__09002800_pal_rgba16[];
+extern Vtx yellowblock_000_displaylist_mesh_layer_1_vtx_0[14];
+extern Gfx yellowblock_000_displaylist_mesh_layer_1_tri_0[];
+extern Gfx mat_yellowblock_yellowblock[];
+extern Gfx mat_revert_yellowblock_yellowblock[];
+extern Gfx yellowblock_000_displaylist_mesh_layer_1[];
+extern Gfx yellowblock_material_revert_render_settings[];

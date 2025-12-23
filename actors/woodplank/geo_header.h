@@ -1,0 +1,17 @@
+extern const GeoLayout woodplank_geo[];
+extern Lights1 woodplank_woodplank2_lights;
+extern Lights1 woodplank_woodplank1_lights;
+extern u8 woodplank__0300FD10_ci8_ci8[];
+extern u8 woodplank__0300FD10_ci8_pal_rgba16[];
+extern u8 woodplank__0300ED10_ci8_ci8[];
+extern u8 woodplank__0300ED10_ci8_pal_rgba16[];
+extern Vtx woodplank_000_displaylist_001_mesh_layer_1_vtx_0[16];
+extern Gfx woodplank_000_displaylist_001_mesh_layer_1_tri_0[];
+extern Vtx woodplank_000_displaylist_001_mesh_layer_1_vtx_1[8];
+extern Gfx woodplank_000_displaylist_001_mesh_layer_1_tri_1[];
+extern Gfx mat_woodplank_woodplank2[];
+extern Gfx mat_revert_woodplank_woodplank2[];
+extern Gfx mat_woodplank_woodplank1[];
+extern Gfx mat_revert_woodplank_woodplank1[];
+extern Gfx woodplank_000_displaylist_001_mesh_layer_1[];
+extern Gfx woodplank_material_revert_render_settings[];
