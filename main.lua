@@ -1,5 +1,5 @@
 -- name: \\#dc0000\\Super Mario Bros. \\#00dc00\\3D
--- description: Super Mario Bros. 3D is a mini hack made by Kaze Emanuar and Released in 2013, There are a lot of custom objects in this hack that make it feel more unique and varied. The hack has 22 Stars Total.\n\nPorted by B. Bones Johnson\n\nAudio Stream Template by Blocky.cmd\n\n Thanks to peachypeachsm64, pipocalio and other members of the SM64CoopDX community for coding help.\n\nNOTE: For Character Select compatiblity please use Version 1.16 or higher.
+-- description: Super Mario Bros. 3D is a mini hack made by Kaze Emanuar and Released in 2013, There are a lot of custom objects in this hack that make it feel more unique and varied. The hack has 22 Stars Total.\n\nPorted by B. Bones Johnson\n\nAudio Stream Template by Blocky.cmd\n\n Thanks to PeachyPeachsm64, DizzyThermal and other members of the SM64CoopDX community for coding help.\n\nNOTE: For Character Select compatiblity please use Version 1.16 or higher.
 -- incompatible: romhack
 
 gLevelValues.entryLevel = LEVEL_CASTLE_GROUNDS
