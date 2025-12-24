@@ -251,6 +251,7 @@ end
 function Func_Custom_0x8030b478(o)
 
 cur_obj_scale(2.3)
+network_init_object(o, true, { "oFaceAngleRoll", "oAngleVelRoll", "oMoveAngleRoll" })
 
 end
 
@@ -277,23 +278,20 @@ o.oAnimations = gObjectAnimations.toad_seg6_anims_0600FB58
 obj_init_animation(o, 6)
 bhv_toad_message_init()
 o.oIntangibleTimer = 0
-network_init_object(o, false, nil)
+o.oInteractStatus = 0
+network_init_object(o, true,{"oInteractStatus", "activeFlags"})
 
 end
 
 function explosive_toad_loop(o)
 
-local player = nearest_mario_state_to_object(o)
+--local player = nearest_mario_state_to_object(o)
 
 o.oIntangibleTimer = 0
 bhv_bowser_bomb_loop()
-if ((player.action & ACT_FLAG_INVULNERABLE) ~= 0) then
 
 
 
-obj_mark_for_deletion(o)
-
-end
 
 end
 
